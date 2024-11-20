@@ -4,7 +4,7 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
+  //AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Javascript </b>
               </i>
               <br />
               <br />
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js </b>
               </i>
             </p>
           </Col>
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Mihunan"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +75,11 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+             
+             
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/mihunan-visuvalingam-3b3829266/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BxVt2dZXJQDipqwU%2FMjNCMg%3D%3D"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2FMihunan%2520Visuvalingam%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0Ji3Zu0cUk6bI0FvINTu6gIZuS2H0-47ulPBpsJ4iHB6M72p8_EDjk9Ag_aem_5XGWiB--8WLHVbfZR9ANBg&h=AT1wX5FCZUuOoeapABZMVdsLFCdIzaimai-SIvQvtEnzl4Y0qewhgoNd-0Kcwqz0XaSG9CGJJI-hLlg3NYI__ajRxH8vKdqk8m9k0hbEMSQ21ywVtUx09ZuNIdUMf7w8JupB"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
